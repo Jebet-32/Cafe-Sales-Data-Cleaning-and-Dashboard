@@ -17,3 +17,8 @@ The raw data contained significant structural errors that would compromise any b
 ## 🎛️ Interactive Features Included
 - Created dynamic **Pivot Tables** to segment variables systematically.
 - Implemented dual **Slicer Controls** to slice core revenue streams instantly by operational channels (Takeaway vs. In-Store) and client transactional behaviors (Cash vs. Digital Wallets).
+
+
+
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97b975e2-12a2-40c9-8597-95f185508420" />
+
