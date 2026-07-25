@@ -5,8 +5,8 @@ This project transforms a messy, real-world retail dataset containing 10,000 tra
 
 ## 🛠️ Data Cleaning Process
 The raw data contained significant structural errors that would compromise any business analysis. I resolved the following anomalies:
-- **String Pollution**: Used advanced text manipulation and Find/Replace to strip out hidden non-numeric tags (e.g., converting text errors like "4 UNKNOWN" and "1 ERROR" into valid numerical attributes).
-- **Mathematical Integrity**: Rewrote calculation columns using robust `IFERROR` logic to handle missing data fields dynamically without system crashes.
+- **Text Cleaning**: Used advanced text manipulation and Find/Replace to strip out hidden non-numeric tags (e.g., converting text errors like "4 UNKNOWN" and "1 ERROR" into valid numerical attributes).
+- **Formula Error Handling**: Rewrote calculation columns using robust `IFERROR` logic to handle missing data fields dynamically without system crashes.
 - **Data Standardization**: Converted text-formatted strings in date and financial columns into proper chronological and analytical data types.
 
 ## 📈 Key Insights Reported
