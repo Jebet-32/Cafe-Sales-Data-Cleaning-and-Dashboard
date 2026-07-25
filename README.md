@@ -17,9 +17,9 @@ The raw data contained significant structural errors that would compromise any b
 ## 🎛️ Interactive Features Included
 - Created dynamic **Pivot Tables** to segment variables systematically.
 - Implemented dual **Slicer Controls** to slice core revenue streams instantly by operational channels (Takeaway vs. In-Store) and client transactional behaviors (Cash vs. Digital Wallets).
-Skills Used
 
-• Excel
+Skills Used:
+ Excel
 
 • Pivot Tables
 
